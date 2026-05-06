@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Santiago Giorgetti</h1>
 
-<!--
-**Santiago-Giorgetti/Santiago-Giorgetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer from Argentina 🇦🇷 <br/>
+Focused on building modern, scalable and clean web experiences.
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/chope-dev">
+    <img src="https://komarev.com/ghpvc/?username=chope-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer specialized in modern frontend ecosystems
+- ⚡ Main stack: Angular, TypeScript, React & Node.js
+- 🎨 Passionate about UI/UX, scalable architectures and clean code
+- 🐧 Linux user
+- 🎵 Electronic music producer & DJ in my free time
+- 🌎 Open to remote opportunities
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/santiago-giorgetti-4a40a01b9/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+
+  <a href="https://discord.gg/383680360405532683" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+  </a>
+
+  <a href="https://www.facebook.com/ssanty.giorgetti/" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook" height="45"/>
+  </a>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,svelte,astro,ts,js,html,css,sass,bootstrap,figma" />
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ruby" />
+</p>
+
+---
+
+## 🗄️ Database & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,jenkins,git,linux,postman" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chope-dev&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=chope-dev&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+# 🎵 Currently
+
+- Building frontend applications with Angular & TypeScript
+- Improving UI precision from Figma designs
+- Exploring music production & DJ workflows
+
+---
+
+<p align="center">
+  <i>"Code, music and creativity — all connected."</i>
+</p>
