@@ -68,21 +68,9 @@ Focused on building modern, scalable and clean web experiences.
 
 ---
 
-# 📊 GitHub Stats
+## ⚡ Activity Graph
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=chope-dev&show_icons=true&theme=tokyonight"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chope-dev&layout=compact&theme=tokyonight"
-    height="170"
-  />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chope-dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
