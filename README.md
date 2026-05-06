@@ -68,11 +68,7 @@ Focused on building modern, scalable and clean web experiences.
 
 ---
 
-## ⚡ Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chope-dev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chope-dev&theme=tokyonight)
 
 # 🎵 Currently
 
