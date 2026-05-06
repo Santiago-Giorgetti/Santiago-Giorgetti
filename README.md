@@ -72,10 +72,12 @@ Focused on building modern, scalable and clean web experiences.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=chope-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="170"
   />
-  
+</p>
+
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=chope-dev&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
@@ -84,7 +86,7 @@ Focused on building modern, scalable and clean web experiences.
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=chope-dev&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=chope-dev&theme=tokyonight&hide_border=true"
     height="170"
   />
 </p>
