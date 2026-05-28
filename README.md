@@ -16,7 +16,7 @@ Focused on building modern, scalable and clean web experiences.
 ## 🚀 About Me
 
 - 💻 Full Stack Developer specialized in modern frontend ecosystems
-- ⚡ Main stack: Angular, TypeScript, React & Node.js
+- ⚡ Main stack: Angular, TypeScript, React, Node.js & NestJS
 - 🎨 Passionate about UI/UX, scalable architectures and clean code
 - 🐧 Linux user
 - 🎵 Electronic music producer & DJ in my free time
